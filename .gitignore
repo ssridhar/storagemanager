@@ -1,0 +1,29 @@
+# Build output
+.build/
+build/
+DerivedData/
+*.o
+*.a
+*.dSYM/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# IntelliJ / AppCode / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
